@@ -1,11 +1,3 @@
-// Exercice 4 : 
-
-/*
-
-
-
-*/
-
 let variable = 12
 
 if ( !isNaN(variable) ) {
@@ -14,8 +6,3 @@ if ( !isNaN(variable) ) {
 
 // isNaN : true/false
 // !isNaN : false/true
-
-
-
-
-
